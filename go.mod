@@ -1,4 +1,4 @@
-module github.com/auth0/go-jwt-middleware/v2
+module github.com/VladislavMorozovIDT/go-jwt-middleware
 
 go 1.19
 
